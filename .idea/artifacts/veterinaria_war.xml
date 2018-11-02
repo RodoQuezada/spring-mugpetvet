@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="veterinaria:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="veterinaria-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="veterinaria:war exploded" />
+    </root>
+  </artifact>
+</component>
